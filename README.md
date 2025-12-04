@@ -74,7 +74,8 @@ Tailwind 3 is configured with custom brand colors. The dashboard expects the bac
 
 Visual overview of the system.
 
-Routes View
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/7b8bbdad-3f27-4282-8636-19985f3a99f4" />
+
 
 Shows all voyages with filters for vessel type, fuel type, and year.
 
@@ -84,17 +85,23 @@ Shows all voyages with filters for vessel type, fuel type, and year.
 Compare View
 
 Compare actual voyage GHG intensities against baseline and compliance targets.
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/e9187814-7b14-48af-b673-2acb5bd28458" />
+
 
 
 
 
 Banking View (Article 20)
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/5c12b421-fdb0-42c3-b0d2-d03a4114c581" />
+
 
 Bank surplus intensity credits or apply previously banked surplus.
 
 
 
 Pooling View (Article 21)
+
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/1818920b-cc47-413c-9015-7d93fcd39f23" />
 
 Create ship pools and view redistributed compliance balances.
 
